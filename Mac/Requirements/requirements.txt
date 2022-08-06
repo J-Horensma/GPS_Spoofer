@@ -1,0 +1,7 @@
+idevice_id
+ideviceinfo
+wget
+unzip
+idevicepair
+ideviceimagemounter
+idevicesetlocation
